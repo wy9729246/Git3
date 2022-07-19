@@ -15,4 +15,8 @@ public class Git3 {
     public void test(){
         System.out.println("A开发");
     }
+
+    public void test1(){
+        System.out.println("A开发");
+    }
 }
